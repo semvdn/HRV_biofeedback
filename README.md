@@ -2,9 +2,11 @@
 
 This application is a real-time Heart Rate Variability (HRV) biofeedback trainer. It provides a visual pacer to guide your breathing and uses data from a Bluetooth heart rate monitor to track your physiological response. The goal is to help you find your resonant breathing frequency, which can maximize HRV and promote a state of calm and focus.
 
-<p align="center">
-  <video src="Showcase.mp4" controls muted playsinline width="720"></video><br/>
-</p>
+
+
+https://github.com/user-attachments/assets/99858e3f-5e28-4aee-be87-f299e9247d87
+
+
 
 ## Features
 
